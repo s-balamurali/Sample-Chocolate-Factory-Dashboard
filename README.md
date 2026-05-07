@@ -100,18 +100,6 @@ Users can dynamically filter the dashboard by selecting custom date ranges.
 
 ---
 
-# 🛠️ Tools & Technologies Used
-
-| Tool | Purpose |
-|---|---|
-| ⚡ Power BI Desktop | Dashboard Development |
-| 📄 Microsoft Excel | Data Source |
-| 🧠 DAX | Calculations & Measures |
-| 🔗 Data Modeling | Relationship Management |
-| 📊 Visual Analytics | Interactive Reporting |
-
----
-
 # 🗂️ Dataset Information
 
 The dataset contains:
