@@ -124,7 +124,7 @@ The dataset contains:
 
 # 📸 Dashboard Preview
 
-![Power BI Dashboard]([dashboard-preview.png](https://github.com/s-balamurali/Sample-Chocolate-Factory-Dashboard/blob/main/image.png))
+![Power BI Dashboard]([image.png))
 
 ---
 
