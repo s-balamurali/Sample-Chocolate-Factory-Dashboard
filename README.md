@@ -124,9 +124,7 @@ The dataset contains:
 
 # 📸 Dashboard Preview
 
-(https://github.com/s-balamurali/Sample-Chocolate-Factory-Dashboard/blob/main/image.png)
-
----
+![Dashboard Preview](https://raw.githubusercontent.com/s-balamurali/Sample-Chocolate-Factory-Dashboard/main/image.png)
 
 # 🌟 Future Enhancements
 
